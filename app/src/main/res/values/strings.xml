@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">NavigationDrawerExample</string>
+    <string name="navigation_drawer_open">Drawer opened</string>
+    <string name="navigation_drawer_close">Drawer closed</string>
     <string-array name="planets">
         <item>Mercury</item>
         <item>Venus</item>
